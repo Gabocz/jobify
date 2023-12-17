@@ -11,7 +11,7 @@ import cloudinary from "cloudinary";
 // routers
 import jobRouter from "./routes/jobRouter.js";
 import userRouter from "./routes/userRouter.js";
-import authRouter from "./routes/authrouter.js";
+import authRouter from "./routes/authRouter.js";
 
 // public
 import { dirname } from "path";
